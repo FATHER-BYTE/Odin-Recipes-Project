@@ -2,7 +2,15 @@
 
 My first ever trying out The Odin Project
 
-This project demonstrate my understanding how to not vibe code and understanding these:
+## About
+
+A simple recipe website featuring three Malaysian dishes:
+
+- Nasi Ayam Geprek
+- Ramly Burger Double Special
+- Roti Canai
+
+## Skills Practised
 
 - HTML boilerplate
 - Headings and paragraphs

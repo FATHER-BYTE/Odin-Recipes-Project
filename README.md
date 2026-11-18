@@ -2,11 +2,20 @@
 
 My first ever trying out The Odin Project
 
-This project demonstrate my understanding how to not vibe code and understanding these:
+## About
+
+A simple creation of website featuring 3 malaysian dish;
+
+1. Nasi Ayam Geprek
+2. Ramly Burger
+3. Roti canai
+
+
+## Skills Practised
 
 - HTML boilerplate
 - Headings and paragraphs
 - Ordered and unordered lists
-- Hyperlinks
-- Images
-- Relative and absolute paths
+- Links and images
+- Relative file paths
+- Basic Git workflow

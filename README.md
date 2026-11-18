@@ -2,7 +2,7 @@
 
 My first ever trying out The Odin Project
 
-This project demonstrate my understanding how to not vibe code and understanding these:
+This project demonstrate my understanding these and not how to vibe code:
 
 - HTML boilerplate
 - Headings and paragraphs
